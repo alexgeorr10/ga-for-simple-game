@@ -7,7 +7,7 @@ This project is mainly for fun and the code is very bad. I wanted to make the ga
 The pygame module
 
 ## Description 
-In the python file, we code a simple video game. The player moves a circle with the keyobard arrows and the goal is to reach the red circle on the bottom right of the window. There are some obstacles on the way that need to be passed around.
+In the python file, we code a simple video game. The player moves a circle with the keyboard arrows and the goal is to reach the red circle on the bottom right of the window. There are some obstacles on the way that need to be passed around.
 
 ![ScreenShot](/images/Screenshot_90.png)
 
