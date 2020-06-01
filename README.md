@@ -24,4 +24,3 @@ At the same time, we use a genetic algorithm to have the computer beat the game 
 ![ScreenShot](/images/Screenshot_80.png)
 
 If the circle follow the shortest path going below the first obstacle, it takes them around 40 generations to reach the goal. But if they take the path above the first obstacle, then they get stuck on top of the second obstacle and then they might spend upwards of 300 generations to discover a novelty that gets them around it!
-
