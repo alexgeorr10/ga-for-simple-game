@@ -3,4 +3,4 @@ In the python file, we write a simple video game. The player moves a circle with
 ***
 At the same time, we use a genetic algorithm to have the computer beat the game on each own. Here are a few screenshots
 
-![ScreenShot](/screenshots/Screenshot_1.png)
+![Images](/images/Screenshot_1.png)
