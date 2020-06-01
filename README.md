@@ -12,7 +12,7 @@ In the python file, we code a simple video game. The player moves a circle with 
 ![ScreenShot](/images/Screenshot_90.png)
 
 ***
-At the same time, we use a genetic algorithm to have the computer beat the game on each own. Here are some screenshots of a run the reached the goal in 45 generations:
+At the same time, we use a genetic algorithm to have the computer beat the game on its own. Here are some screenshots of a run that reached the goal in 45 generations:
 
 ![ScreenShot](/images/Screenshot_10.png)
 ![ScreenShot](/images/Screenshot_20.png)
