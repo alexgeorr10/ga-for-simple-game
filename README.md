@@ -23,4 +23,4 @@ If the circle follow the shortest path going below the first obstacle, it takes 
 The pygame module
 
 ## Disclaimer
-This project is mainly for fun and the code is very bad. I wanted to make the game playable with the keyboard and at the same time implement the genetic algorithm. As I wasn't familiar with the pygame module beforehand, this ended up in limiting the genetic algorithm tricks that could have been implemented for better convergence to the goal.
+This project is mainly for fun and the code is very bad. I wanted to make the game playable with the keyboard and at the same time implement the genetic algorithm. As I wasn't familiar with the pygame module beforehand, this ended up limiting the genetic algorithm tricks that could have been implemented for better convergence to the goal.
