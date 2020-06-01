@@ -1,7 +1,7 @@
 # Genetic Algorithm for a simple video game
 
 ## Disclaimer
-This project is mainly for fun and the code is very bad. I wanted to make the game playable by people and at the same time implement the genetic algorithm. As I wasn't familiar with the pygame module beforehand, this ended up in limiting the genetic algorithm tricks that could have bben implemented for better convergence to the goal.
+This project is mainly for fun and the code is very bad. I wanted to make the game playable by people and at the same time implement the genetic algorithm. As I wasn't familiar with the pygame module beforehand, this ended up in limiting the genetic algorithm tricks that could have been implemented for better convergence to the goal.
 
 ## Requirements
 The pygame module
